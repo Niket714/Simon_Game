@@ -7,6 +7,7 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
   margin:  5%;
+  margin-top: 1%;
   color: #FEF2BF;
 }
 
@@ -27,8 +28,8 @@ body {
 }
 
 .game-over {
-  background-color: red;
-  opacity: 0.8;
+  background-color: red !important;
+  /* opacity: 0.8; */
 }
 
 .red {
